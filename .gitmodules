@@ -1,0 +1,3 @@
+[submodule "commander"]
+	path = commander
+	url = git@github.com:clibs/commander.git
